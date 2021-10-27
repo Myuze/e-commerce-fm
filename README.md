@@ -3,6 +3,10 @@
 
 ## Description:
 
+## [E-commerce-fm Walkthrough](https://watch.screencastify.com/v/D0Znkrr9NsyEQyyX5xHV)
+
+![Walkthrough](walkthrough.jpg)
+
 ---
 An E-commerce Backend created in Node.js with Express and SQL Database ready to support online stores by providing the ability to  track products with category tags.
 
